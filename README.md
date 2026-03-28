@@ -6,7 +6,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,600&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..500;9..600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet"/>
 <style>
 :root{
-  --bg:'white';
+  --bg:'#04080f';
   --surface:#0a1220;
   --card:#0f1b2d;
   --border:rgba(100,255,218,.12);
@@ -423,29 +423,8 @@ footer span{color:var(--teal)}
     <div class="cv-icon">📄</div>
     <p class="resume-desc">Download my full CV for a complete overview of my academic background, research experience, publications, and technical skills.</p>
     <a href="CV.pdf" download class="btn-primary" style="font-size:.85rem;padding:1rem 2.5rem;">⬇ &nbsp;Download CV (PDF)</a>
-    <p class="resume-note">&#128204; Upload your CV.pdf file to the same GitHub repository to enable this button.</p>
-    <div class="resume-quick">
-      <div class="rq-card">
-        <h4>Education</h4>
-        <div class="rq-item">Ph.D. Applied Physics — PolyU HK (2023)</div>
-        <div class="rq-item">M.Sc. Theoretical Physics — AUST (2014)</div>
-        <div class="rq-item">B.Sc. Physics &amp; Astronomy — UNN (2011)</div>
-      </div>
-      <div class="rq-card">
-        <h4>Research</h4>
-        <div class="rq-item">Coulomb interaction method for reactive MD</div>
-        <div class="rq-item">ML surrogates for nanomaterials</div>
-        <div class="rq-item">RL-based autonomous agents</div>
-        <div class="rq-item">LLM fine-tuning with PEFT/LoRA</div>
-      </div>
-      <div class="rq-card">
-        <h4>Academic Roles</h4>
-        <div class="rq-item">Assistant Lecturer</div>
-        <div class="rq-item">Teaching Assistant</div>
-        <div class="rq-item">Final-Year Project Mentor</div>
-        <div class="rq-item">International Conference Presenter</div>
-      </div>
-    </div>
+   [CV.pdf](https://github.com/user-attachments/files/26326681/CV.pdf)
+    
   </div>
 </section>
 
