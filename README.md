@@ -1,7 +1,3 @@
-# ── Define the full website HTML ──────────────────────────────────
-# (Auto-generated — do not edit unless you want to customise the site)
-
-html_content = r'''<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8"/>
@@ -559,6 +555,4 @@ window.addEventListener('scroll',()=>{
 });
 </script>
 </body>
-</html>'''
-
-print(f'✅ HTML ready ({len(html_content):,} characters).')
+</html>
