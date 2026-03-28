@@ -6,7 +6,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,600&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..500;9..600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet"/>
 <style>
 :root{
-  --bg:'#04080f';
+  --bg:#04080f;
   --surface:#0a1220;
   --card:#0f1b2d;
   --border:rgba(100,255,218,.12);
@@ -422,8 +422,8 @@ footer span{color:var(--teal)}
   <div class="resume-inner reveal">
     <div class="cv-icon">📄</div>
     <p class="resume-desc">Download my full CV for a complete overview of my academic background, research experience, publications, and technical skills.</p>
-    <a href="CV.pdf" download class="btn-primary" style="font-size:.85rem;padding:1rem 2.5rem;">⬇ &nbsp;Download CV (PDF)</a>
-   [CV.pdf](https://github.com/user-attachments/files/26326681/CV.pdf)
+    <a href="CV.pdf" download class="btn-primary" style="font-size:.85rem;padding:1rem 2.5rem;">⬇ &nbsp;[CV.pdf](https://github.com/user-attachments/files/26326681/CV.pdf)</a>
+   
     
   </div>
 </section>
