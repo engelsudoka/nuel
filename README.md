@@ -422,11 +422,17 @@ footer span{color:var(--teal)}
   <div class="resume-inner reveal">
     <div class="cv-icon">📄</div>
     <p class="resume-desc">Download my full CV for a complete overview of my academic background, research experience, publications, and technical skills.</p>
-    <a href="CV.pdf" download class="btn-primary" style="font-size:.85rem;padding:1rem 2.5rem;">⬇ &nbsp;[CV.pdf](https://github.com/user-attachments/files/26326681/CV.pdf)</a>
-   
-    
+    <li>
+      <a href="user-attachments/files/26326810/CV.pdf" rel="nofollow noopener noreferrer me"> == $0
+        <i class="far fa-fw fa-file-pdf" aria-hidden="true">
+          ::before
+        </i>
+        <span class="label">CV</span>
+      </a >
+    </li>
   </div>
 </section>
+<!-- [CV.pdf](https://github.com/user-attachments/files/26326810/CV.pdf) -->
 
 <!-- ─── CONTACT ─────────────────────────────────────────── -->
 <section id="contact">
