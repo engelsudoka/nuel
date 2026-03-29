@@ -415,7 +415,6 @@ footer span{color:var(--teal)}
 </section>
 
 <!-- ─── RESUME ─────────────────────────────────────────── -->
-<!-- ─── RESUME ─────────────────────────────────────────── -->
 <section id="resume">
   <div class="section-label">04 / Resume</div>
   <h2 class="section-title">Curriculum<br/>Vitae</h2>
