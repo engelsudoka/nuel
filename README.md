@@ -191,7 +191,7 @@ footer span{color:var(--teal)}
   <div class="hero-content">
     <div class="hero-eyebrow">Physicist &amp; Data Scientist</div>
     <h1 class="hero-title">Udoka<br/><span>Nwankwo</span></h1>
-    <p class="hero-subtitle">
+    <p class="hero-subtitle"; align="justify">
       As a highly motivated Theoretical and Computational Material Physicist specialising in atomistic modelling and molecular dynamics simulation of emerging materials, with a strong foundation in Data Science, I am seeking a challenging role that leverages my analytical skills, programming expertise, and passion for data-driven insights to drive innovation and solve complex problems.
     </p>
     <div class="tags-row">
