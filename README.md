@@ -422,7 +422,15 @@ footer span{color:var(--teal)}
   <div class="resume-inner reveal">
     <div class="cv-icon">📄</div>
     <p class="resume-desc">View my full CV for a complete overview of my academic background, research experience, publications, and technical skills.</p>
-    <a href="https://github.com/user-attachments/files/26329794/CV.pdf" view class="btn-primary" style="font-size:.85rem;padding:1rem 2.5rem;">⬇ &nbsp;View CV (PDF)</a>
+    
+      href="https://docs.google.com/viewer?url=https://github.com/user-attachments/files/26329794/CV.pdf"
+      target="_blank"
+      rel="noopener noreferrer"
+      class="btn-primary"
+      style="font-size:.85rem;padding:1rem 2.5rem;"
+    >
+      📄 &nbsp;View CV
+    </a>
   </div>
 </section>
 
