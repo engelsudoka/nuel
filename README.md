@@ -419,11 +419,13 @@ footer span{color:var(--teal)}
   <div class="section-label">04 / Resume</div>
   <h2 class="section-title">Curriculum<br/>Vitae</h2>
   <div class="section-divider" style="margin:1.5rem auto 3rem"></div>
+
   <div class="resume-inner reveal">
     <div class="cv-icon">📄</div>
     <p class="resume-desc">View my full CV for a complete overview of my academic background, research experience, publications, and technical skills.</p>
-    <a
-      href="https://drive.google.com/file/d/1OPNw9kAynMVQPMK8KA3y9w_pOL3ndLB6/view?usp=drive_link"
+    <!-- <a
+       href="https://drive.google.com/file/d/1OPNw9kAynMVQPMK8KA3y9w_pOL3ndLB6/view?usp=drive_link" -->
+    <a  href="https://docs.google.com/viewer?url=https://github.com/user-attachments/files/26330266/CV.pdf"
       target="_blank"
       rel="noopener noreferrer"
       class="btn-primary"
