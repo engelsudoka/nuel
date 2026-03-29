@@ -6,8 +6,9 @@
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,600&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..500;9..600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet"/>
 <style>
 :root{
-  --bg:#04080f;
-  --surface:#0a1220;
+  <!-- #04080f #0a1220 -->
+  --bg:"gray';
+  --surface:"sky-blue";
   --card:#0f1b2d;
   --border:rgba(100,255,218,.12);
   --teal:#64ffda;
@@ -425,7 +426,7 @@ footer span{color:var(--teal)}
     <p class="resume-desc">View my full CV for a complete overview of my academic background, research experience, publications, and technical skills.</p> -->
     <!-- href="https://drive.google.com/file/d/1OPNw9kAynMVQPMK8KA3y9w_pOL3ndLB6/view?usp=drive_link" -->
     <a
-      href="https://github.com/engelsudoka/nuel/blob/main/CV.pdf"
+      href="https://docs.google.com/viewer?url=https://github.com/engelsudoka/nuel/blob/main/CV.pdf"
       target="_self"
       rel="noopener noreferrer"
       class="btn-primary"
