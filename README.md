@@ -423,9 +423,8 @@ footer span{color:var(--teal)}
     <div class="cv-icon">📄</div>
     <p class="resume-desc">Download my full CV for a complete overview of my academic background, research experience, publications, and technical skills.</p>
     <li>
-      <a href="user-attachments/files/26326810/CV.pdf" rel="nofollow noopener noreferrer me"> == $0
+      <a href="https://github.com/user-attachments/files/26326810/CV.pdf" rel="nofollow noopener noreferrer me">CV
         <i class="far fa-fw fa-file-pdf" aria-hidden="true">
-          ::before
         </i>
         <span class="label">CV</span>
       </a >
