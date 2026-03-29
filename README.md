@@ -426,7 +426,7 @@ footer span{color:var(--teal)}
     <p class="resume-desc">View my full CV for a complete overview of my academic background, research experience, publications, and technical skills.</p> -->
     <!-- href="https://github.com/engelsudoka/nuel/blob/main/CV.pdf" -->
     <a
-      href="https://docs.google.com/viewer?url=https://drive.google.com/file/d/1OPNw9kAynMVQPMK8KA3y9w_pOL3ndLB6/view?usp=drive_link"
+      href="https://drive.google.com/file/d/1OPNw9kAynMVQPMK8KA3y9w_pOL3ndLB6/view?usp=drive_link"
       target="_self"
       rel="noopener noreferrer"
       class="btn-primary"
