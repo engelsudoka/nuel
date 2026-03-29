@@ -415,6 +415,7 @@ footer span{color:var(--teal)}
 </section>
 
 <!-- ─── RESUME ─────────────────────────────────────────── -->
+<!-- ─── RESUME ─────────────────────────────────────────── -->
 <section id="resume">
   <div class="section-label">04 / Resume</div>
   <h2 class="section-title">Curriculum<br/>Vitae</h2>
@@ -422,7 +423,7 @@ footer span{color:var(--teal)}
   <div class="resume-inner reveal">
     <div class="cv-icon">📄</div>
     <p class="resume-desc">View my full CV for a complete overview of my academic background, research experience, publications, and technical skills.</p>
-    <a href="https://github.com/user-attachments/files/26326810/CV.pdf" target="_blank">View CV</a>
+    <iframe src="https://github.com/user-attachments/files/26326810/CV.pdf" width="100%" height="500px"></iframe>
   </div>
 </section>
 
