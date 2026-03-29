@@ -426,7 +426,7 @@ footer span{color:var(--teal)}
     <!-- <a
        href="https://drive.google.com/file/d/1OPNw9kAynMVQPMK8KA3y9w_pOL3ndLB6/view?usp=drive_link" -->
     <a  href="https://docs.google.com/viewer?url=https://github.com/user-attachments/files/26330445/CV.pdf"
-      target="_blank"
+      target="_self"
       rel="noopener noreferrer"
       class="btn-primary"
       style="font-size:.85rem;padding:1rem 2.5rem;"
