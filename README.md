@@ -421,12 +421,10 @@ footer span{color:var(--teal)}
   <div class="section-divider" style="margin:1.5rem auto 3rem"></div>
   <div class="resume-inner reveal">
     <div class="cv-icon">📄</div>
-    <p class="resume-desc">Download my full CV for a complete overview of my academic background, research experience, publications, and technical skills.</p>
-      <a href="https://github.com/user-attachments/files/26326810/CV.pdf" >Visit CV">
-      </a >
+    <p class="resume-desc">View my full CV for a complete overview of my academic background, research experience, publications, and technical skills.</p>
+    <a href="https://github.com/user-attachments/files/26326810/CV.pdf" target="_blank">View CV</a>
   </div>
 </section>
-<!-- [CV.pdf](https://github.com/user-attachments/files/26326810/CV.pdf) -->
 
 <!-- ─── CONTACT ─────────────────────────────────────────── -->
 <section id="contact">
