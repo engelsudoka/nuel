@@ -15,8 +15,8 @@
   --teal-dim:rgba(100,255,218,.15);
   --amber:#f0a500;
   --amber-dim:rgba(240,165,0,.15);
-  --txt:#ccd6f6;
-  --txt-muted:#8892b0;
+  --txt:"black";
+  --txt-muted:"black";
   --nav-h:70px;
 }
 *,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
@@ -424,9 +424,9 @@ footer span{color:var(--teal)}
   <div class="resume-inner reveal">
 <!--    <div class="cv-icon">📄</div>
     <p class="resume-desc">View my full CV for a complete overview of my academic background, research experience, publications, and technical skills.</p> -->
-    <!-- href="https://drive.google.com/file/d/1OPNw9kAynMVQPMK8KA3y9w_pOL3ndLB6/view?usp=drive_link" -->
+    <!-- href="https://github.com/engelsudoka/nuel/blob/main/CV.pdf" -->
     <a
-      href="https://docs.google.com/viewer?url=https://github.com/engelsudoka/nuel/blob/main/CV.pdf"
+      href="https://docs.google.com/viewer?url=https://drive.google.com/file/d/1OPNw9kAynMVQPMK8KA3y9w_pOL3ndLB6/view?usp=drive_link"
       target="_self"
       rel="noopener noreferrer"
       class="btn-primary"
