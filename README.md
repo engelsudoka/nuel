@@ -427,7 +427,7 @@ footer span{color:var(--teal)}
     <!-- href="https://github.com/engelsudoka/nuel/blob/main/CV.pdf" -->
     <a
       href="https://drive.google.com/file/d/1OPNw9kAynMVQPMK8KA3y9w_pOL3ndLB6/view?usp=drive_link"
-      target="_self"
+      target="_blank"
       rel="noopener noreferrer"
       class="btn-primary"
       style="font-size:.85rem;padding:1rem 2.5rem;"
