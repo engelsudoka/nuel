@@ -423,8 +423,9 @@ footer span{color:var(--teal)}
   <div class="resume-inner reveal">
     <div class="cv-icon">📄</div>
     <p class="resume-desc">View my full CV for a complete overview of my academic background, research experience, publications, and technical skills.</p>
+    <!-- href="https://drive.google.com/file/d/1OPNw9kAynMVQPMK8KA3y9w_pOL3ndLB6/view?usp=drive_link" --
     <a
-      href="https://drive.google.com/file/d/1OPNw9kAynMVQPMK8KA3y9w_pOL3ndLB6/view?usp=drive_link"
+      href="https://github.com/engelsudoka/nuel/blob/main/CV.pdf"
       target="_self"
       rel="noopener noreferrer"
       class="btn-primary"
