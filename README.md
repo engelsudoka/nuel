@@ -247,13 +247,13 @@ footer span{color:var(--teal)}
           <div class="edu-degree">M.Sc. Theoretical Physics</div>
           <div class="edu-major">Theoretical Physics</div>
           <div class="edu-school">African University of Science and Technology (AUST)<br/>Abuja, Nigeria</div>
-          <div class="edu-year">2014</div>
+          <div class="edu-year">2019</div>
         </div>
         <div class="edu-item">
           <div class="edu-degree">B.Sc. Physics &amp; Astronomy</div>
           <div class="edu-major">Physics &amp; Astronomy</div>
           <div class="edu-school">University of Nigeria Nsukka (UNN)<br/>Enugu State, Nigeria</div>
-          <div class="edu-year">2011</div>
+          <div class="edu-year">2017</div>
         </div>
       </div>
     </div>
